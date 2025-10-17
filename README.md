@@ -89,7 +89,4 @@ This project aims to create a **self-learning, real-time cyber threat intelligen
 Smart Cyber Defense Dashboard bridges the gap between **cyber threat intelligence** and **AI analytics**, delivering a unified, interactive, and evolving platform for cyber defense professionals.  
 It transforms raw data into meaningful, visual, and predictive insights to strengthen digital resilience.
 
----
 
-## License
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
